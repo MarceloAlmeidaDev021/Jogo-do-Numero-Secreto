@@ -10,4 +10,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/80726775?s=400&u=8120c07fdccccd22c2348c4a7086eceec52aa10f&v=4" width=115><br><sub>Marcelo Almeida</sub>](https://github.com/MarceloAlmeidaDev021) |
+| :---: |
+
 
